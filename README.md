@@ -15,7 +15,8 @@ I had no idea how to create a website and am still revisiting the code so I woul
 
 ## What are your next step to improve it?
 1. Implement the code in web assembly and rust using leptos. (A rust implementation of solid JS, to put it simply)
-2. Implement tailwind css into the css styling. This is something that might be removed later.
+2. Add github actions to the project.
+3. Implement tailwind css into the css styling. This is something that might be removed later.
 
 ## Please note:
 Each improvement have their own branch.
