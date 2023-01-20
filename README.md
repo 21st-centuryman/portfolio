@@ -1,5 +1,5 @@
 ## Note this will most likely be depreciated. 
-I am currently working on redoing my website at the following repository [calexanderberg]{https://github.com/calexanderberg/calexanderberg}
+I am currently working on redoing my website at the following repository [calexanderberg](https://github.com/calexanderberg/calexanderberg)
 
 # Personal Portfolio
 ## Introduction
